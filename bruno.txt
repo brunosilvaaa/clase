@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hfhfddfhd+
 fdfnbdkf
 fkfnf
 
+=======
+holaaaaaa
+>>>>>>> 0c43cacf5f0c33a865411290ab9548aa1ac6626d
